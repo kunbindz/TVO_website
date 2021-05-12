@@ -6,6 +6,9 @@
 [class*="col-"] {
     padding: 0 15px;
 }
+.no-gutter{
+    padding: 0px 0px;
+}
 
 .col-1 {
     width: 8.33%;
